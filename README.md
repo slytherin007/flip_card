@@ -12,7 +12,7 @@ This project showcases a CSS flip card design, demonstrating a visually appealin
 To run this project locally, follow these steps:
 1. Clone the repository: `git clone https://github.com/your-username/css-flip-card.git`
 2. Open the project directory.
-3. Open the `index.html` file in your preferred web browser.
+3. Open the `basic.html` file in your preferred web browser.
 
 ## Usage
 Modify the HTML and CSS files to customize the content and styles of the flip card according to your requirements. The main files to edit include:
